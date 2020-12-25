@@ -22,9 +22,3 @@ Possible Future plans:
 - Performance Improvement
 - Highscore
 - Shop with coins, as zombies drop coins.
-
-
-
-Bugs:
-
-- Bullets shoot out from the player intead of the gun
